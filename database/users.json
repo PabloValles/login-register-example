@@ -6,5 +6,13 @@
   "password": "$2a$10$kbHNepDXku1qKDytFK3RpuLtkW/dqMGDi4jXL7lNQUF8lm1HZ2.N.",
   "country": "Colombia",
   "avatar": "1609285636788_img.jpg"
+ },
+ {
+  "id": 2,
+  "fullName": "Pablo Valles",
+  "email": "valles.pablo@hotmail.com",
+  "password": "$2a$10$cd8boTDqjX4ahy0pI3o7Bukusemt76DHVFMAP6vimhfhNEBLj/Qte",
+  "country": "Argentina",
+  "avatar": "1651707704209_img.jpg"
  }
 ]
